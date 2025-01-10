@@ -104,6 +104,6 @@ Bei C# kamen ein paar Probleme auf, da wir davor noch nie wirklich mit dieser Pr
 
 ---
 
-### Was hast du gelernt?
+### Was haben wir gelernt?
 
-Bei diesem Projekt haben wir eigentlich nur gelernt, wie der Code für FizzBuzz in C# aussieht, da wir den Rest bereits kannten. Im gesamten Modul hingegen haben wir aber noch deutlich mehr Neues gelernt, vorallem über Cloudlösungen und wie man Microsoft Azure benutzt
+Bei diesem Projekt haben wir eigentlich nur gelernt, wie der Code für FizzBuzz in C# aussieht, da wir den Rest bereits kannten. Im gesamten Modul hingegen haben wir aber noch deutlich mehr Neues gelernt, vorallem über Cloudlösungen und wie man Microsoft Azure benutzt.
