@@ -94,13 +94,13 @@ Als wir die Aufgabe bekamen, uns Projekte zu überlegen, welche wir umsetzen sol
 
 ### Was hat gut geklappt?
 
-Der Code für Java, JavaScript und Python klappte sehr gut, da wir in diesen Programmiersprachen bereits an Erfahrung gesammelt haben. Auch ging alles mit dem GitHub Repository gut, da wir damit auch schon vor und in diesem Modul gearbeitet haben und uns somit auch schon ausgekannt haben. Schlussendlich lief noch das deployen auf Microsoft Azure gut, da wir dies bereits einige Male im Unterricht vollführt haben und es uns somit nicht mehr schwer fiel.
+Der Code für Java, JavaScript und Python klappte sehr gut, da wir in diesen Programmiersprachen bereits an Erfahrung gesammelt haben. Auch ging alles mit dem GitHub Repository gut, da wir damit auch schon vor und in diesem Modul gearbeitet haben und uns somit auch schon ausgekannt haben.
 
 ---
 
 ### Wo gab es Probleme?
 
-Bei C# kamen ein paar Probleme auf, da wir davor noch nie wirklich mit dieser Programmiersprache gearbeitet haben. Da es aber Ähnlichkeiten mit Java hat und der Code, den wir schreiben mussten, allgemein immer ähnlich war, konnten wir dieses Hindernis schon nach kurzer Recherche bewältigen. Abgesehen davon hatten wir keine wirklichen Probleme bei unserem Projekt.
+Bei C# kamen ein paar Probleme auf, da wir davor noch nie wirklich mit dieser Programmiersprache gearbeitet haben. Da es aber Ähnlichkeiten mit Java hat und der Code, den wir schreiben mussten, allgemein immer ähnlich war, konnten wir dieses Hindernis schon nach kurzer Recherche bewältigen. Abgesehen davon hatten wir keine wirklichen Probleme bei unserem Projekt. Leider gab es auch beim Deployen auf Microsoft Azure Probleme, da wir Azure irgendwie nicht mit unserem Repository verknüpfen konnten und somit logischerweise auch nichts deployen konnten.
 
 ---
 
